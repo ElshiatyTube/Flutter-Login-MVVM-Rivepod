@@ -1,6 +1,6 @@
 # flutterlogintaskbyriverpod
 
-Flutter Login RiverPod
+Flutter Simple Login with dummy data by RiverPod state management and MVVM pattern
 
 ## Getting Started
 
